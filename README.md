@@ -3,8 +3,8 @@ I'm a Computer Science student at UNIVALI, with experience as an IT technician. 
 
 
 ### Contact me
-[![OUTLOOK](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:cfnetto@edu.univali.br)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:candidofachini25@gmail.com)
+[![OUTLOOK](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:cfnetto@edu.univali.br)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/candido-fachini-neto-927926235/)
 
 ![Candido Netto's Github Stats](https://github-readme-stats.vercel.app/api?username=cfnetto&show_icons=true&theme=tokyonight)
