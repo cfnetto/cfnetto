@@ -1,5 +1,5 @@
-### About me
-Hello! I'm a Computer Science student at UNIVALI, with experience as an IT technician. Fluent in Portuguese and English, I focus my studies on C++ and Python, as well as exploring Database, Computer Networks, and Process Automation.
+## Hello, I'm Candido, but you can call me Netto!
+I'm a Computer Science student at UNIVALI, with experience as an IT technician. Fluent in Portuguese and English, I focus my studies on C++ and Python, as well as exploring Database, Computer Networks, and Process Automation. I'm always seeking new challenges and opportunities to learn and grow
 
 
 ### Contact me
